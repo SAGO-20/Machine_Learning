@@ -1,0 +1,8 @@
+- Implement binary perceptron algorithm.
+
+- Use binary perceptron algorithm to train classifiers to discriminate between
+  * class 1 and class 2
+  * class 2 and class 3, and
+  * class 1 and class 3
+
+- Add L2 regularization term to multi-class classifier
